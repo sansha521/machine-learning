@@ -1,5 +1,3 @@
-% HW 3 Problem 2
-
 clear;
 
 % set figure theme from dark to light
