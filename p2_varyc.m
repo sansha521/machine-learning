@@ -4,7 +4,8 @@ clear;
 s = settings;
 s.matlab.appearance.figure.GraphicsTheme.TemporaryValue = "light";
 
-load('dataset.mat')
+load('dataset_X.csv')
+load('dataset_y.csv')
 
 %% Choose Kernel to use in SVM
 % As seen in Dr. Steve Gunn's SVM package documentation:
